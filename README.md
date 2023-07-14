@@ -125,11 +125,11 @@ O objetivo deste projeto é o desenvolvimento de uma plataforma Web para gerenci
 * Opção para geração de gráficos em barras para acompanhamento da utilização ao longo de um período de tempo de materiais (para determinado código ou por tipo de material empregado)
 
 ### TECHNICAL, BUSINESS AND UX REVIEW
-![Alt text](imagens\Tech_Bus_Ux.PNG "TECHNICAL, BUSINESS AND UX REVIEW")
+![image](/imagens/Tech_Bus_Ux.PNG) 
 ### SEQUENCER
-![Alt text](imagens\Sequencer.PNG "SEQUENCER")
+![image](/imagens/Sequencer.PNG)
 ### MVP CANVAS
-![Alt text](imagens\MVP_Canvas.PNG "MVP CANVAS")
+![image](/imagens/MVP_Canvas.PNG)
 ## UI/UX Design
 Protótipo de baixa fidelidade
 
