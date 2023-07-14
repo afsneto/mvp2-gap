@@ -11,7 +11,7 @@ Jira: https://afsneto.atlassian.net/jira/software/projects/AFSN/boards/1/backlog
 
 ## LEAN INCEPTION
 ### KICKOFF
-Esse MVP tem como escopo a ideação e planejamento inicial de um novo produto de software.
+Esse MVP tem como escopo a ideação e planejamento inicial do software SAVEINLINE.
 
 A empresa MYLINES é dona de 3 concessões de linhas de transmissão, totalizando 600 km de extensão. Para cada concessão temos um almoxarifado onde os materiais sobressalentes são armazenados. Como exemplo destes materiais temos: 
 * Torres metálicas treliçadas;
@@ -19,7 +19,7 @@ A empresa MYLINES é dona de 3 concessões de linhas de transmissão, totalizand
 * Bobinas de cabos condutores e para-raios;
 * Acessórios e ferragens.
 
-O objetivo deste projeto é o desenvolvimento de uma plataforma Web para gerenciamento e unificação do inventório de materiais sobressalentes localizados nos diferentes almoxarifados.
+O objetivo deste projeto é o desenvolvimento de uma plataforma Web para gerenciamento e unificação do inventório de materiais sobressalentes localizados nos diferentes almoxarifados da companhia.
 
 ### EQUIPE
 * PO: José
