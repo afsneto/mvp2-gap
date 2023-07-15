@@ -130,10 +130,9 @@ O objetivo deste projeto é o desenvolvimento de uma plataforma Web para gerenci
 ![image](/imagens/Sequencer.PNG)
 ### MVP CANVAS
 ![image](/imagens/MVP_Canvas.PNG)
-## UI/UX Design
-Protótipo de baixa fidelidade
-
 ## Backlog do produto
+Visualização geral do Backlog com estimativas com separação das sprints
+![image](/imagens/Backlog.png)
 
 ## Backlog da sprint
 
