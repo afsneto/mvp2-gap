@@ -134,6 +134,4 @@ O objetivo deste projeto é o desenvolvimento de uma plataforma Web para gerenci
 Visualização geral do Backlog com estimativas com separação das sprints
 ![image](/imagens/Backlog.png)
 
-## Backlog da sprint
-
 ## Video
