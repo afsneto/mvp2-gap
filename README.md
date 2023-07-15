@@ -134,3 +134,5 @@ Visualização geral do Backlog com estimativas com separação das sprints
 ![image](/imagens/Backlog.png)
 
 ## Video
+https://youtu.be/Mmtqc2CWG5w
+
