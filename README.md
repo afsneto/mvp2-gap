@@ -1,12 +1,11 @@
 # SPRINT DE GESTÃO ÁGIL DE PROJETOS E PRODUTOS
 ## FERRAMENTAS UTILIZADAS NO MVP
-Miro: desenvolvimento de uma lean inception para ideação e delimitação do escopo do MVP
-Figma: desenvolvimento de protótipos de baixa fidelidade
-Jira: gestão do backlog do produto e do projeto
+Miro: desenvolvimento de uma lean inception para ideação e delimitação do escopo do MVP  
+Figma: desenvolvimento de protótipos de baixa fidelidade  
+Jira: gestão do backlog do produto e do projeto 
 
 ## DOCUMENTOS DO REPOSITÓRIO
 MVP Canvas - Miro: https://miro.com/app/board/uXjVM2S9g5o=/  
-Figma:  
 Jira: https://afsneto.atlassian.net/jira/software/projects/AFSN/boards/1/backlog
 
 ## LEAN INCEPTION
